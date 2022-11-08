@@ -4,7 +4,7 @@
 ## A Simple and Easy To - Do Website!
 
 
-#### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
+#### This web page is hosted [here!](https://to-do-list-shahid.netlify.app/)
 
 ### *Features*:
 
